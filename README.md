@@ -19,8 +19,15 @@ https://www.bilibili.com/opus/1101557170436046848
 Latest Version
 11 November 2025 – 14:42:05 UTC 37 minutes ago ManifestID 1260618733699255115
 
-Function: Same as the game itself, checks every 30 minutes, but automatically claims rewards.
-method: https://www.reddit.com/r/Bongocat/comments/1kf1r6p/bongo_cat_auto_claim_chest/  
-How to use: put it to \STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed  
+Function:   
+Same as the game itself, checks every 30 minutes, but automatically claims rewards.  
+
+Method:   
+https://www.reddit.com/r/Bongocat/comments/1kf1r6p/bongo_cat_auto_claim_chest/  
+
+How to use:   
+Put it to \STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed  
+
+
 A better version can automatically check every minute and claim rewards if available, but it might be banned by Bilibili.  
 https://www.bilibili.com/opus/1101557170436046848
