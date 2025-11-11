@@ -5,17 +5,19 @@
 11 November 2025 – 14:42:05 UTC	37 minutes ago	ManifestID 1260618733699255115  
 
 功能，與遊戲本身一樣30分鐘檢查一次，但會自動領  
+方法：  
+https://www.reddit.com/r/Bongocat/comments/1kf1r6p/bongo_cat_auto_claim_chest/  
 
 更好的版本，能自動每分鐘檢查，有就會領，但可能被BILIBILI BAN了  
 https://www.bilibili.com/opus/1101557170436046848  
 
-
+=====================================================================
 
 Latest Version
 11 November 2025 – 14:42:05 UTC 37 minutes ago ManifestID 1260618733699255115
 
 Function: Same as the game itself, checks every 30 minutes, but automatically claims rewards.
+method: https://www.reddit.com/r/Bongocat/comments/1kf1r6p/bongo_cat_auto_claim_chest/  
 
-A better version can automatically check every minute and claim rewards if available, but it might be banned by Bilibili.
-
+A better version can automatically check every minute and claim rewards if available, but it might be banned by Bilibili.  
 https://www.bilibili.com/opus/1101557170436046848
