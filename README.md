@@ -3,6 +3,7 @@
 
 最新版本  
 11 November 2025 – 14:42:05 UTC	37 minutes ago	ManifestID 1260618733699255115  
+大佬在更新中，去​Mod长期有效地址：https://xv40.lanzouu.com/b0fpy9v9e （密码4qek）
 
 功能，與遊戲本身一樣30分鐘檢查一次，但會自動領  
 方法：  
@@ -24,6 +25,7 @@ https://www.bilibili.com/opus/1101557170436046848
 
 Latest Version
 11 November 2025 – 14:42:05 UTC 37 minutes ago ManifestID 1260618733699255115
+Go ​https://xv40.lanzouu.com/b0fpy9v9e (password 4qek)
 
 Function:   
 Same as the game itself, checks every 30 minutes, but automatically claims rewards.  
