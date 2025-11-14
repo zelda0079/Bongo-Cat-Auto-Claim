@@ -25,7 +25,7 @@ https://www.bilibili.com/opus/1101557170436046848
 
 Latest Version
 11 November 2025 – 14:42:05 UTC 37 minutes ago ManifestID 1260618733699255115
-Go ​https://xv40.lanzouu.com/b0fpy9v9e (password 4qek)
+The developer is currently updating; here is the long-term valid address for the mod: ​https://xv40.lanzouu.com/b0fpy9v9e (password 4qek)
 
 Function:   
 Same as the game itself, checks every 30 minutes, but automatically claims rewards.  
