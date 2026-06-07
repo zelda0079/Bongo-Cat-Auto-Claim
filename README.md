@@ -9,6 +9,9 @@ Seen Date	Relative Date	ManifestID
 如何遊戲更新了而我未更新，  
 用STEAM控制台指令還原版本（如果不知道怎樣做請自行搜尋）  
 download_depot 3419430 3419431 1116068246431107441  
+
+使用方法：
+放在\STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed
 --------------------------------------------------------------------------------
 
 大佬在更新中，去​Mod长期有效地址：https://xv40.lanzouu.com/b0fpy9v9e （密码4qek）
