@@ -2,8 +2,8 @@
 # BONGO CAT 自動領寶箱  
 
 最新版本  
-Seen Date	Relative Date	ManifestID	
-7 June 2026 – 15:20:50 UTC	12 hours ago	713651783536320490
+Seen Date	Relative Date	ManifestID	  
+7 June 2026 – 15:20:50 UTC	12 hours ago	713651783536320490  
 
 因為這遊戲這兩天內更新了12次，  
 如何遊戲更新了而我未更新，  
