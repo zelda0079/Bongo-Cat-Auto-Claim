@@ -2,13 +2,13 @@
 # BONGO CAT 自動領寶箱  
 
 最新版本  
-Seen Date	Relative Date	ManifestID	 
-7 June 2026 – 12:08:06 UTC	2 hours ago	368748538530977661  
+Seen Date	Relative Date	ManifestID	
+7 June 2026 – 15:20:50 UTC	12 hours ago	713651783536320490
 
 因為這遊戲這兩天內更新了12次，  
 如何遊戲更新了而我未更新，  
 用STEAM控制台指令還原版本（如果不知道怎樣做請自行搜尋）  
-download_depot 3419430 3419431 368748538530977661  
+download_depot 3419430 3419431 713651783536320490  
 
 使用方法：
 放在\STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed
@@ -21,6 +21,7 @@ download_depot 3419430 3419431 368748538530977661
 功能，與遊戲本身一樣30分鐘檢查一次，但會自動領  
 方法：  
 https://www.reddit.com/r/Bongocat/comments/1kf1r6p/bongo_cat_auto_claim_chest/  
+在適當位置加上 this._shopItem.Buy();  
 
 使用方法：  
 放在\STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed  
