@@ -2,13 +2,12 @@
 # BONGO CAT 自動領寶箱  
 
 最新版本  
-Seen Date	Relative Date	ManifestID	  
-7 June 2026 – 15:20:50 UTC	12 hours ago	713651783536320490  
+大佬已更至最新，請用大佬版本  
 
 因為這遊戲這兩天內更新了12次，  
 如何遊戲更新了而我未更新，  
 用STEAM控制台指令還原版本（如果不知道怎樣做請自行搜尋）  
-download_depot 3419430 3419431 713651783536320490  
+download_depot 3419430 3419431 ManifestID
 
 使用方法：
 放在\STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed
