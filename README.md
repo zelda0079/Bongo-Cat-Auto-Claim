@@ -2,9 +2,9 @@
 # BONGO CAT 自動領寶箱  
 
 最新版本  
-大佬已更至最新，請用大佬版本  
+Seen Date Relative Date ManifestID
+12 July 2026 – 11:46:05 UTC 16 hours ago 1957407498109361226
 
-因為這遊戲這兩天內更新了12次，  
 如何遊戲更新了而我未更新，  
 用STEAM控制台指令還原版本（如果不知道怎樣做請自行搜尋）  
 download_depot 3419430 3419431 ManifestID
@@ -36,8 +36,6 @@ https://www.bilibili.com/opus/1101557170436046848
 
 =====================================================================
 
-Latest Version
-11 November 2025 – 14:42:05 UTC 37 minutes ago ManifestID 1260618733699255115
 The developer is currently updating; here is the long-term valid address for the mod: ​https://xv40.lanzouu.com/b0fpy9v9e (password 4qek)
 
 Function:   
