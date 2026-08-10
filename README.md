@@ -1,3 +1,5 @@
+
+
 # Bongo-Cat-Auto-Claim  
 # BONGO CAT 自動領寶箱  
 
@@ -7,7 +9,7 @@ Seen Date Relative Date ManifestID
 
 如何遊戲更新了而我未更新，  
 用STEAM控制台指令還原版本（如果不知道怎樣做請自行搜尋）  
-download_depot 3419430 3419431 ManifestID
+download_depot 3419430 3419431 1957407498109361226
 
 使用方法：
 放在\STEAM\steamapps\common\BongoCat\BongoCat_Data\Managed
@@ -55,4 +57,4 @@ I discovered that the original creator has moved to other platforms to continue 
 https://www.bilibili.com/opus/1133838398032707585  
 
 www.xiaoheihe.cn/app/bbs/link/166405303  
-Long-term valid mod address: https://xv40.lanzouu.com/b0fpy9v9e (password 4qek)  
+Long-term valid mod address: https://xv40.lanzouu.com/b0fpy9v9e (password 4qek)
